@@ -9,9 +9,12 @@ Clone the repository or download it as a ZIP and run the following command to ru
 The project used webpack to bundle JS, CSS and HTML files.
 
 ```
-npm install
-npm run build -> to create the dist file (optional)
-npm start -> to start the application
+1. npm install
+
+2. This step is optional as the dist is already present 
+npm run build -> to create the dist file
+
+3. npm start -> to start the application
 ```
 
 Go to localhost:3001 and you will be able to see the website running
