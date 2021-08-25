@@ -12,9 +12,9 @@ The project used webpack to bundle JS, CSS and HTML files.
 1. npm install
 
 2. This step is optional as the dist is already present 
-npm run build -> to create the dist file
+npm run build
 
-3. npm start -> to start the application
+3. npm start
 ```
 
 Go to localhost:3001 and you will be able to see the website running
